@@ -1,5 +1,5 @@
 
-"Deep Learning Project"
+**Deep Learning Project**
 *  Predicting a person wearing mask or without mask using convolutional neural network
 
 * This repository contains a deep learning project built in a Jupyter Notebook. The project includes downloading data from Kaggle, preprocessing, and applying a deep learning model for a specific task (e.g., classification, image recognition, etc.).
